@@ -115,6 +115,9 @@
     <EmbeddedResource Include="FormMenuProcA.resx">
       <DependentUpon>FormMenuProcA.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormProcAI.resx">
+      <DependentUpon>FormProcAI.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>

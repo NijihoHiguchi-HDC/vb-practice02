@@ -86,6 +86,12 @@
     <Compile Include="FormMenuProcA.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormProcA2.Designer.vb">
+      <DependentUpon>FormProcA2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProcA2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormProcAI.Designer.vb">
       <DependentUpon>FormProcAI.vb</DependentUpon>
     </Compile>

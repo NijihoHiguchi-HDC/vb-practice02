@@ -121,6 +121,9 @@
     <EmbeddedResource Include="FormMenuProcA.resx">
       <DependentUpon>FormMenuProcA.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormProcA2.resx">
+      <DependentUpon>FormProcA2.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormProcAI.resx">
       <DependentUpon>FormProcAI.vb</DependentUpon>
     </EmbeddedResource>

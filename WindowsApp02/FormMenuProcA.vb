@@ -4,6 +4,6 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        FormProcA2.Show()
+        MsgBox("削除しました")
     End Sub
 End Class
